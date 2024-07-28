@@ -85,7 +85,7 @@ class _WeatherAppState extends State<WeatherApp> {
       appBar: AppBar(
         centerTitle: true,
         title: const Text(
-          'Weather App',
+          'Mausam',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         actions: [
